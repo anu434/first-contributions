@@ -2496,6 +2496,7 @@ vrushabhpatil48
 - [David Hong](https://github.com/hyt152004)
 - [Akheel Nazim](https://github.com/bigbaliboy) **You can't control the wind but you can adjust your sails**
 - [Krish Koria](https://github.com/KrishKoria) **First Contribution**
+- [Ananya ](https://github.com/anu434) **First Contribution**
 - [Jose Piscoya Tirado](https://github.com/AtucZ) **Greatness is born from small beginnings.**
 - [Deepesh Patil](https://github.com/deepesh611) **Hey Guy!, Nice to meet you all, not my first contribution tho**
 - COffee is programmers best friend
